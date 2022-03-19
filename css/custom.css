@@ -1,0 +1,256 @@
+/*---------------------
+  Blog
+-----------------------*/
+
+.product-item-header {
+  margin-bottom: 15px;
+}
+
+.product-item-header h5 a {
+  font-size: 24px;
+  color: #1c1c1c;
+  font-weight: 700;
+}
+
+.product-item {
+  margin: 0 20px 10px 20px;
+}
+
+.product-item-pic img {
+  min-width: 100%;
+}
+
+.product-item-text {
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.product-item-text ul {
+  margin-top: 0px;
+  margin-bottom: 15px;
+}
+
+.product-item-text ul li {
+  font-size: 16px;
+  color: #b2b2b2;
+  list-style: none;
+  display: inline-block;
+  margin-right: 15px;
+}
+
+.product-item-text ul li:last-child {
+  margin-right: 0;
+}
+
+.product-item-text h5 {
+  margin-bottom: 12px;
+}
+
+.product-item-text h5 a {
+  font-size: 20px;
+  color: #1c1c1c;
+  font-weight: 700;
+}
+
+.product-item-text p {
+  margin-bottom: 10px;
+}
+
+.product-item-text .product-btn {
+  display: inline-block;
+  font-size: 14px;
+  color: #1c1c1c;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  border: 1px solid #b2b2b2;
+  padding: 14px 20px 12px;
+  border-radius: 25px;
+}
+
+.product-item-text .product-btn span {
+  position: relative;
+  top: 1px;
+  margin-left: 5px;
+}
+
+.product-pagination {
+  padding-top: 5px;
+  position: relative;
+}
+
+.product-pagination:before {
+  position: absolute;
+  left: 0;
+  top: -29px;
+  height: 1px;
+  width: 100%;
+  background: #000000;
+  opacity: 0.1;
+  content: "";
+}
+
+.footer-copyright-credits {
+  float: right;
+}
+
+.footer-copyright-credits ul {
+}
+
+.footer-copyright-credits li {
+  display: inline-block;
+  margin-right: 40px;
+}
+
+.footer-copyright-credits li a {
+  font-size: 16px;
+  color: #6f6f6f;
+}
+
+.product-btn {
+  display: inline-block;
+  font-size: 14px;
+  color: #1c1c1c;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  border: 1px solid #b2b2b2;
+  padding: 14px 20px 12px;
+  border-radius: 25px;
+}
+
+.product-btn span {
+  position: relative;
+  top: 1px;
+  margin-left: 5px;
+}
+
+
+
+.from-blog {
+  padding-top: 30px;
+  padding-bottom: 50px;
+
+  padding: 45px 0 40px;
+  display: block;
+}
+
+.from-blog h1 {
+  font-size: 36px;
+  font-weight: 700;
+  display: block;
+}
+
+.from-blog h2 {
+  font-size: 32px;
+  font-weight: 700;
+  display: block;
+flex-wrap: wrap;
+}
+
+.from-blog h3 {
+  font-size: 28px;
+  font-weight: 700;
+  display: block;
+}
+
+.product-details-add {
+  background-color: #f5f5f5;
+  padding: 30px;
+}
+
+.product-details-add h3 {
+	color: #252525;
+	font-weight: 700;
+	margin-bottom: 16px;
+}
+
+.product-details-add .product__details__rating {
+	font-size: 14px;
+	margin-bottom: 12px;
+}
+
+.product-details-add .product__details__rating i {
+	margin-right: -2px;
+	color: #EDBB0E;
+}
+
+.product-details-add .product__details__rating span {
+	color: #dd2222;
+	margin-left: 4px;
+}
+
+.product-details-add .product__details__price {
+	font-size: 30px;
+	color: #dd2222;
+	font-weight: 600;
+	margin-bottom: 15px;
+}
+
+.product-details-add p {
+	margin-bottom: 15px;
+}
+
+.product-details-add .primary-btn {
+	padding: 16px 28px 14px;
+	margin-right: 6px;
+	margin-bottom: 5px;
+}
+
+.product-details-add .heart-icon {
+	display: inline-block;
+	font-size: 16px;
+	color: #6f6f6f;
+	padding: 13px 16px 13px;
+	background: #f5f5f5;
+}
+
+.product-details-add ul {
+	border-top: 1px solid #ebebeb;
+	padding-top: 20px;
+	margin-top: 30px;
+}
+
+.product-details-add ul li {
+	font-size: 16px;
+	color: #1c1c1c;
+	list-style: none;
+	line-height: 36px;
+}
+
+.product-details-add ul li b {
+	font-weight: 700;
+	width: 110px;
+	display: inline-block;
+}
+
+.product-details-add ul li span samp {
+	color: #dd2222;
+}
+
+.product-details-add ul li .share {
+	display: inline-block;
+}
+
+.product-details-add ul li .share a {
+	display: inline-block;
+	font-size: 15px;
+	color: #1c1c1c;
+	margin-right: 25px;
+}
+
+.product-details-add ul li .share a:last-child {
+	margin-right: 0;
+}
+
+.from-blog h1 {
+  font-size: 36px;
+  padding-bottom: 20px;
+}
+
+.from-blog h2 {
+  font-size: 28px;
+  padding: 20px 0 20px 0;
+}
+
+.from-blog .row {
+  display: block;
+}

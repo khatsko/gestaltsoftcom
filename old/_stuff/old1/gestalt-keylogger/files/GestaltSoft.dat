@@ -1,0 +1,35 @@
+[General]
+RoboSoft/Company_UIN=CMP-013A0FC7585
+Company_Info/Company_Name=GestaltSoft
+Company_Info/Country=United States of America
+Company_Info/Company_WebSite_URL=http://gestaltsoft.com
+Company_Info/Contact_Info/Contact_First_Name=Stan
+Company_Info/Contact_Info/Contact_Last_Name=Khat
+Company_Info/Contact_Info/Contact_Email=weblegate@gmail.com
+Company_Info/Support_Info/Sales_Email=weblegate@gmail.com
+Company_Info/Support_Info/Support_Email=weblegate@gmail.com
+Company_Info/Support_Info/General_Email=weblegate@gmail.com
+ASP/ASP_FORM=Y
+ASP/ASP_Member=N
+OISV/OISV_FORM=Y
+OISV/OISV_Member=N
+ESC/ESC_FORM=Y
+ESC/ESC_Member=N
+RoboSoft/Common_Login=%E6%BFS%84%F7%06%B2%1E%1A^<%D90
+RoboSoft/Common_Password=%CF[[{%C4c%8D%D1%DB%F9%1D%CD%E1
+
+[Site Login]
+
+[Site Password]
+
+[Site Account]
+
+[Comments]
+
+[SMTP]
+SMTP Port=25
+SMTP Requires Authorization=FALSE
+Use SSL=FALSE
+POP3 Port=110
+SMTP From=Stan Khat <weblegate@gmail.com>
+
